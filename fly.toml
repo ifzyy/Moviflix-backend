@@ -1,6 +1,6 @@
-# fly.toml file generated for morning-sound-9902 on 2023-01-24T21:52:30+01:00
+# fly.toml file generated for throbbing-water-6757 on 2023-01-24T22:48:04+01:00
 
-app = "morning-sound-9902"
+app = "throbbing-water-6757"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []

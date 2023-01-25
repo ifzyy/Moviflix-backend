@@ -20,6 +20,7 @@ default: &default
   password: johnson#2#3
   host: localhost
   username: postgres
+  port: 5432
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
@@ -86,4 +87,4 @@ production:
   <<: *default
   database: Moviflix_backend_production
   username: Moviflix_backend
-  password: <%= ENV["MOVIFLIX_BACKEND_DATABASE_PASSWORD"] %>
+  password: johnson#2#3
