@@ -1,6 +1,6 @@
-# fly.toml file generated for throbbing-water-6757 on 2023-01-24T22:48:04+01:00
+# fly.toml file generated for weathered-bird-9392 on 2023-01-27T17:04:11+01:00
 
-app = "throbbing-water-6757"
+app = "weathered-bird-9392"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
